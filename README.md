@@ -17,7 +17,7 @@ Practice safe retrieval and display of data
 [239-safeForms](https://github.com/PresnoArmweak/239-safeForms) 
  
 ## Screenshot of homepage 
-![alt](url) 
+![alt](home.png) 
  
 ## Markdown Cheat Sheet 
 [cheatsheet](https://www.markdownguide.org/cheat-sheet/) ) 
